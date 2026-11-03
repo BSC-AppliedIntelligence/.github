@@ -1,6 +1,6 @@
 # BSC Applied Intelligence
 
-**Open-source releases from the Applied Intelligence group (Innovation and Applications Group) of the Language Technologies Lab at the [Barcelona Supercomputing Center (BSC-CNS)](https://www.bsc.es).**
+**Open-source releases from the Applied Intelligence group  of the Artificial Intelligence Institute at the [Barcelona Supercomputing Center (BSC-CNS)](https://www.bsc.es).**
 
 This organization hosts the software, tools and resources developed by our group that are ready for open-source distribution. Day-to-day development happens internally. Projects are published here once they're mature enough to be shared, reused and contributed to by others.
 
@@ -8,14 +8,13 @@ This organization hosts the software, tools and resources developed by our group
 
 ## About the group
 
-Applied Intelligence turns the research of BSC's Language Technologies Lab into working systems for real organizations. We design and build **pilots and proofs of concept** in Generative AI and Natural Language Processing for public administrations and companies. Much of this work is channelled through **BSC Connects** and the **BSC AI Factory**.
+Applied Intelligence turns the research of BSC's AII into working systems for real organizations. We design and build **pilots and proofs of concept** in Generative AI and Natural Language Processing for public administrations and companies. Much of this work is also channelled through **BSC Connects** and the **BSC AI Factory**.
 
 Our main areas of work:
 
 - **Generative AI and LLM applications**: conversational agents, retrieval-augmented generation (RAG) and agentic systems built on open models such as the ALIA / Salamandra family.
 - **LLM inference and deployment**: serving and evaluating models on HPC infrastructure (MareNostrum 5) and on-premises hardware.
 - **Information Extraction and Text Mining**: turning unstructured documents into structured, actionable knowledge.
-- **Knowledge Engineering**: ontologies, knowledge graphs and the semantic integration of open data.
 - **Language technologies for Catalan and Spanish**: tools and resources for less-resourced languages, in line with the AINA and ALIA initiatives.
 
 ## About the BSC AI Institute
