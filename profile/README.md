@@ -19,7 +19,7 @@ Our main areas of work:
 
 ## About the BSC AI Institute
 
-The **BSC AI Institute** brings together the artificial-intelligence research carried out across the Barcelona Supercomputing Center. It spans the life sciences, earth sciences, computer science and engineering, and covers hundreds of AI researchers. The Institute's mission is to:
+The **BSC AI Institute** brings together the artificial-intelligence research carried out across the Barcelona Supercomputing Center. The Institute's mission is to:
 
 - advance research excellence in AI, combining it with BSC's supercomputing capabilities;
 - transfer AI advances to society and industry, including through the **BSC AI Factory**;
