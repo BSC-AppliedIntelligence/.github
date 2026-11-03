@@ -34,7 +34,7 @@ Released projects are listed below as they are published.
 
 | Repository | Description |
 |---|---|
-| _Coming soon_ | |
+| [doccat](https://github.com/BSC-AppliedIntelligence/doccat) | MCP server that lets agents navigate large PDF/Office collections through an LLM-written metadata catalog instead of a vector store: domain-aware cataloguing profiles, an agent that designs them, parallel indexing and a corpus graph. |
 
 ## Licensing
 
