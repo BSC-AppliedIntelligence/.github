@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BSC-AppliedIntelligence/.github/main/profile/banner.png" alt="Applied Intelligence, Barcelona Supercomputing Center" width="100%">
+</p>
+
 # BSC Applied Intelligence
 
 **Open-source releases from the Applied Intelligence group  of the Artificial Intelligence Institute at the [Barcelona Supercomputing Center (BSC-CNS)](https://www.bsc.es).**
@@ -35,6 +39,7 @@ Released projects are listed below as they are published.
 | Repository | Description |
 |---|---|
 | [doccat](https://github.com/BSC-AppliedIntelligence/doccat) | A RAG system through an MCP server that lets agents navigate large document collections through an LLM-written metadata catalog instead of a vector store: domain-aware cataloguing profiles, an agent that designs them, parallel indexing and a corpus graph. |
+| [fred-notetaker](https://github.com/BSC-AppliedIntelligence/fred-notetaker) | Self-hosted meeting notes for teams: records Google Meet, Microsoft Teams and Zoom calls from a Chrome extension or a meeting bot, transcribes them on your own GPU (whisper.cpp, meetings that switch languages included), names the speakers, and writes structured notes with an open-weights or OpenAI-compatible LLM: decisions, action items with owners, and questions answered from the transcript. |
 
 ## Licensing
 
